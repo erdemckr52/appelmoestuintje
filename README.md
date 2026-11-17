@@ -1,4 +1,4 @@
-# 09-11-2026 / 9 november [maandag kick-off]
+# 09-11-2026 / maandag kick-off [sprint 0]
 
 ## **Check-Out vragen**
 
@@ -31,3 +31,16 @@
 ## **Kleine aanpassinkjes html**
 
 ![digital garden mini veranderingen](readme-images/dg1.png)
+
+
+
+# 11-11-2026 / woensdag (interactie & schetsen) [sprint 0]
+
+## **Wok to Walk menu opdracht**
+
+![woktowalk 1](<readme-images/woktowalk 1.jpeg>)
+![woktowalk 2](<readme-images/woktowalk 2.png>)
+
+**Beschrijving:** De 1e afbeelding zie je mijn eerste geschetste versie van de WoktoWalk menu. In mijn gedachte had ik al gelijk dat ik een soort luxe menu ervan wilde maken, michelin achtig iets, maar nog wel met dezelfde concept, elementen en fonts. Ik probeerde het heel simpel te houden en logisch, dus heb ik ook de volgorde en plaats van de saus elementen aangepast, voor verduidelijking.
+
+Op de 2e afbeelding zie je de uitgewerkte versie op Figma. Heb het simpel gehouden, maar wel passende en nuttige elementen toegevoegd, zoals natuurlijk de titel Wok to Walk, de logo rechtsboven, en natuurlijk de kleuren en fonts. Een extra element dat ik erbij vond passen is afbeelding van de sauzen ernaast zetten. Uiteindelijk als interactie kun je op die sauzen klikken, en krijg je een grotere afbeelding met de ingredienten van de saus tevoorschijn.
