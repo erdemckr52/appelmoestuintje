@@ -44,3 +44,4 @@
 **Beschrijving:** De 1e afbeelding zie je mijn eerste geschetste versie van de WoktoWalk menu. In mijn gedachte had ik al gelijk dat ik een soort luxe menu ervan wilde maken, michelin achtig iets, maar nog wel met dezelfde concept, elementen en fonts. Ik probeerde het heel simpel te houden en logisch, dus heb ik ook de volgorde en plaats van de saus elementen aangepast, voor verduidelijking.
 
 Op de 2e afbeelding zie je de uitgewerkte versie op Figma. Heb het simpel gehouden, maar wel passende en nuttige elementen toegevoegd, zoals natuurlijk de titel Wok to Walk, de logo rechtsboven, en natuurlijk de kleuren en fonts. Een extra element dat ik erbij vond passen is afbeelding van de sauzen ernaast zetten. Uiteindelijk als interactie kun je op die sauzen klikken, en krijg je een grotere afbeelding met de ingredienten van de saus tevoorschijn.
+
