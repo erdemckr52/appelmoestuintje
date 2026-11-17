@@ -18,8 +18,16 @@
 
 **Beschrijving:** Dit is een afbeelding van een vraag die ik heb gesteld aan AI, over hoe ik mijn ReadMe indeling kan verbeteren zodat het er frisser en netter uitziet.
 
+
+
 ## **Zelftest**
 
 ![zelftest voorkant](<readme-images/zelftest 1.jpeg>) ![zelftest achterkant](<readme-images/zelftest 2.jpeg>)
 
 **Beschrijving:** Het viel me op dat deze zelftest wat soepeler ging dan de zelftest die ik vorig jaar heb gemaakt met dezelfde vragen. Dit betekent ook dat ik dus meer dingen beheers en weet van de theorie. Ik heb weinig dingen die ik helemáál niet ken. 
+
+
+
+## **Kleine aanpassinkjes html**
+
+![digital garden mini veranderingen](readme-images/dg1.png)
