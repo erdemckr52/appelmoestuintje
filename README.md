@@ -45,3 +45,12 @@
 
 Op de 2e afbeelding zie je de uitgewerkte versie op Figma. Heb het simpel gehouden, maar wel passende en nuttige elementen toegevoegd, zoals natuurlijk de titel Wok to Walk, de logo rechtsboven, en natuurlijk de kleuren en fonts. Een extra element dat ik erbij vond passen is afbeelding van de sauzen ernaast zetten. Uiteindelijk als interactie kun je op die sauzen klikken, en krijg je een grotere afbeelding met de ingredienten van de saus tevoorschijn.
 
+
+
+# 18-11-2026 / woensdag (visual research) [sprint 1]
+
+## **Opdracht 5: Sfeerwoorden**
+
+- Mijn onderwerp is het Ottomaanse rijk, en ik ben van plan om een focus te leggen op kalligrafie, kunst, miniaturen, designs, portretten, schilderijen, en symbolen zoals moskeën en rozen.
+
+- Mijn sfeerwoorden hierbij zijn: krachtig, machtig, donker, vol, niet-minimalistisch?, bloemen, rozen, natuurlijk, religie, classy, klassiek. 
