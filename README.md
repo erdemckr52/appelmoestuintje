@@ -34,6 +34,8 @@
 
 
 
+
+
 # 11-11-2026 / woensdag (interactie & schetsen) [sprint 0]
 
 ## **Wok to Walk menu opdracht**
@@ -48,9 +50,10 @@ Op de 2e afbeelding zie je de uitgewerkte versie op Figma. Heb het simpel gehoud
 
 
 
+
 # 18-11-2026 / woensdag (visual research) [sprint 1]
 
-## **Opdracht 4: Presentatie vragenlijst**
+## **Opdracht 4: Eigen verbinding (presentatie vragenlijst)**
 
 **Wat is voor jou de essentie van wat je hebt gepresenteerd qua onderwerp en geschreven/beeldende content?**
 
@@ -64,8 +67,28 @@ Op de 2e afbeelding zie je de uitgewerkte versie op Figma. Heb het simpel gehoud
 
 - De vibes die de kleuren geven, donkerrood, soorten blauw, groenig, goud.
 
+![binnen paleis](readme-images/sarayici.png)
+
+**Beschrijving:** Hier ze een afbeelding die ik heb getoond tijdens de presentatie. Je ziet hier duidelijk stevige duidelijke kleuren, waar op het gebied van design een styleguide van gemaakt kan worden. Het ziet er krachtig uit, en het klopt allemaal.
+
 **Aanvullende ideeën:**
 - Zou leuk zijn als het een soort museum wordt, alsin my digital museum, waar je kunst laat zien en dingen erover uitlegt. voeg je eigen twist eraan toe, zoals een zelfgemaakte border dat wel dezelfde vibes een beetje geeft.
+
+## **Opdracht 4: Een stip op de horizon (presentatie vragenlijst)**
+
+**Wat zou je willen vertellen over het onderwerp aan een ander? en hoe zou je dat voor je kunnen zien? middels welke beeld, tekst, animatie, inhoudelijke content? (bijv. Ik wil voornamelijk afbeeldingen tonen, als een soort Pinterest, of ik wil muziek fragmenten laten horen, of ik gebruik korte teksten met eigen foto's).**
+
+- Ik zou graag voornamelijk de Ottomaanse sfeer willen tentoonstellen. Denk daarbij aan afbeeldingen voor de achtergrond, versiering, informatie.
+Ook kun je denken aan de klassieke westerse architectuur, bijvoorbeeld op paleizen, kasteels, of gebouwen met status. Deze architectuur heeft 
+veel overeenkomsten met de Ottomaanse architectuur, en zijn er in de geschiedenis veel afwisselingen en overnemingen geweest tussen de 2 regio's.
+Dus ik denk dat ik het redelijk simpel ga houden en vooral ga focussen op design en minder op interactie. Ook wil ik een typische "ney" fluitinstrument op de achtergrond laten afspelen.
+
+**Vul deze zin aan:**
+
+- Ik wil mijn Digital Garden laten gaan over Ottomaanse kunst
+en wil dat laten zien door sfeer, afbeeldingen, architectuur, kunst en gevoel aan content te tonen.
+Ik begin met een stukje eigen content over een passende introductie, of misschien juist een originele interactie met een specifieke element van content dat ik wil gebruiken. Dit wordt ondersteund met passende fonts en afbeeldingen.
+Als het begin is gemaakt kan ik mijn Garden verder uitbreiden door opties toe te voegen, bijvoorbeeld een navbar, waarbij ik misschien wat over mezelf vertel, of iets uitleg over mijn onderwerp, etc.
 
 
 ## **Opdracht 5: Sfeerwoorden**
@@ -73,3 +96,47 @@ Op de 2e afbeelding zie je de uitgewerkte versie op Figma. Heb het simpel gehoud
 - Mijn onderwerp is het Ottomaanse rijk, en ik ben van plan om een focus te leggen op kalligrafie, kunst, miniaturen, designs, portretten, schilderijen, en symbolen zoals moskeën en rozen.
 
 - Mijn sfeerwoorden hierbij zijn: krachtig, machtig, donker, vol, niet-minimalistisch?, bloemen, rozen, natuurlijk, religie, classy, klassiek. 
+
+
+## **Opdracht 6: Directe visuele vertaling**
+
+![sfeerwoord&onderwerp](readme-images/sfeerwoord.png)
+
+**Beschrijving:** Ik koos voor deze 3 sfeerwoorden, omdat ze naar mijn mening het meest gevarieerde waren, en ik dus een beetje van meerdere kanten ideen bij elkaar kon verzamelen.
+
+![stap1](readme-images/afbeeldingen1.png)
+![aihulp](readme-images/ai-afbeeldingen-overeenkomsten.png)
+
+**Beschrijving:** Ik zocht naar dingen die ik in de afbeeldingen herkende, maar gewoon niet kon beargumenteren. Daarom heb ik AI gevraagd. Het viel me namelijk op dat de kleuren die worden gebruikt in de afbeeldingen, eigenlijk allemaal heel sterke kleuren zijn, maar ook dichte kleuren(ofzoiets). Geen één kleur valt écht op, maar ze passen wel allemaal bij elkaar, en dan heb ik 't vooral over de Ottomaanse afbeeldingen. Dit komt blijkbaar omdat ze allemaal heel natuurlijke kleuren zijn, letterlijk. Er wordt niet gebruik gemaakt van chemische en kunstmatige ingredienten. Ze hebben allemaal een organische basis. Zo onstaat er een visuele kracht en aanwezigheid. Kleur is heel belangrijk. Ik zie de rode bordeaux kleur bij bijna alle afbeeldingen terug, samen met bruin, en eigenlijk de earth tones dus. Dit zijn kleuren die macht uitstralen volgens mij. Dit zie je ook terug in het schilderij van Napoleon. Tegelijkertijd geeft dit een rustgevend gevoel, het laat je ogen geen overuren maken. De kenmerken die ik eraan heb gekoppeld zie je terug in de afbeelding, gemaakt met behulp van Charley, omdat ik niet gelijk wist wat voor termen ik zou kunnen gebruiken hiervoor. Het moest blijkbaar heel algemeen blijven.
+
+
+## **Opdracht 7: Abstracte vertaling**
+
+![stap2](readme-images/afbeeldingen2.png)
+
+**Beschrijving:** Hier heb ik naar de site, en tegelijk naar de kenmerken gekeken, en gescrollt of ik wat kon vinden dat elkaar ondersteund. Zo zie je bijvoorbeeld veel bomen en planten, details op soortvan schilderijen, passende kleuren die ik ga gebruiken, kalligrafie waar verschillende lettertype's worden gebruikt, en patronen en harmonie zie je terug bij de wat modernere kunstwerken.
+
+
+## **Opdracht 9: Crazy 8**
+
+![crazy8](readme-images/crazy8.jpeg)
+
+**Wat zijn de beste ideeën en waarom? ... en waarom de andere minder?**
+
+- De turkse tekst (volgens het arabische alfabet) is toch wel één van de betere. Vooral omdat je visueel eigenlijk wel wat moet laten zien, en ik dit ook heel belangrijk vindt. Als je bijvoorbeeld kijkt naar alle eindproducten dat studenten hadden, viel het me op dat ze allemaal heel anders waren, en het leek alsof ze alles hebben kunnen gebruiken wat ze wilden gebruiken. Denk bijvoorbeeld aan verschillende lettertype's (die soms er niet bij passen), of verschillende talen zelfs, elementen, poppetjes, noem 't maar op. Dus ik denk dat dat heel passend ka zijn bij zo een site als de mijne. De planten en de border design (2e) zijn ook goede ideen die ik zou willen implementeren. Ottomaanse kunst is namelijk grotendeels, bloemen, tulpen en specifiek gedetailleerde design.
+
+**Zijn uitgangspunten terug te zien in de schetsen? Hoe is dat zichtbaar?**
+
+- Ja. De planten geven een natuurlijke kenmerk, de 3e Ottomaanse "çini" afbeelding geeft een duidelijke detail kenmerk, de afbeelding rechtsboven geeft een machtige kenmerk aan.
+
+**Is het idee online te vertalen? Hoe zouden vorm/ kleur of typografie in een schermontwerp kunnen worden getoond?**
+
+- Jazeker, veel van deze schetsen zijn ook mijn laatste gedachtes van de afbeeldingen van mijn presentatie, bijvoorbeeld de 3e çini tegels schets, zou je online kunnen gebruiken als achtergrond, border, noem t maar op. Ik had ook in de presentatie wat site ideen toegevoegd, en dat bewijst het ook.
+
+**Is het idee expressief? Zit er genoeg uitdaging is? Ga je hiermee nieuwe CSS technieken leren? Zie je animaties of transities voor je?**
+
+- Dat zou wel moeten. Om de borders bijvoorbeeld de juiste vorm te geven ga je inderdaad iets eraan moeten te doen. Of bijvoorbeeld hoe ik bepaalde elementen zoals bloemen op de goede plaats kan zetten. Ik weet nog niet hoe ik interactie erin zal toepassen, en hoeveel. Nour gaf me een idee om een soort museum ervan te maken, waar je verschillende elementen hebt, erop kunt klikken en er een uitleg bij krijgt.
+
+**Is het idee leuk en verrassend? Heb je zin om 'dit ontwerp' te maken?**
+
+- Zeker, maar heb wel soms twijfels of ik daadwerkelijk mijn volle creativiteit kan gebruiken. Meestal is het zo met ontwerpen waar ik mijn eigen onderwerpen aan kan verbinden, dat ik dan heel veel ideen heb maar alsnog focus op enkele stukken ervan, waardoor ik uiteindelijk niet helemaal tevreden ben met het resultaat.
