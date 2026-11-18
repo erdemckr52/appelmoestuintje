@@ -47,7 +47,26 @@ Op de 2e afbeelding zie je de uitgewerkte versie op Figma. Heb het simpel gehoud
 
 
 
+
 # 18-11-2026 / woensdag (visual research) [sprint 1]
+
+## **Opdracht 4: Presentatie vragenlijst**
+
+**Wat is voor jou de essentie van wat je hebt gepresenteerd qua onderwerp en geschreven/beeldende content?**
+
+- Sfeer, kleuren, motieven zoals rozen, de algemene kunst.
+
+**Wat is het karakter/ de uitstraling/ het gevoel dat bij het onderwerp past? (bijv. stoer, hip, vrolijk, dynamisch, eenvoudig, enz.)**
+
+- Identeit, trots, machtig, krachtig, fascinatie, tegelijkertijd rustgevend, perfectie.
+
+**Welke inspiratie kun je uit je 25 afbeeldingen halen. Stijl, een gevoel, vorm, enz.**
+
+- De vibes die de kleuren geven, donkerrood, soorten blauw, groenig, goud.
+
+**Aanvullende ideeën:**
+- Zou leuk zijn als het een soort museum wordt, alsin my digital museum, waar je kunst laat zien en dingen erover uitlegt. voeg je eigen twist eraan toe, zoals een zelfgemaakte border dat wel dezelfde vibes een beetje geeft.
+
 
 ## **Opdracht 5: Sfeerwoorden**
 
