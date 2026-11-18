@@ -36,7 +36,7 @@
 
 
 
-# 11-11-2026 / woensdag (interactie & schetsen) [sprint 0]
+# 11-11-2026 / woensdag (interactie & schetsen/interactie) [sprint 0]
 
 ## **Wok to Walk menu opdracht**
 
@@ -47,6 +47,23 @@
 
 Op de 2e afbeelding zie je de uitgewerkte versie op Figma. Heb het simpel gehouden, maar wel passende en nuttige elementen toegevoegd, zoals natuurlijk de titel Wok to Walk, de logo rechtsboven, en natuurlijk de kleuren en fonts. Een extra element dat ik erbij vond passen is afbeelding van de sauzen ernaast zetten. Uiteindelijk als interactie kun je op die sauzen klikken, en krijg je een grotere afbeelding met de ingredienten van de saus tevoorschijn.
 
+
+## **De basis van schetsen opdracht**
+
+![mindere schets](readme-images/basisschets1.jpeg)
+
+**Beschrijving:** Hier zie je een wat mindere schets. Redenen zijn omdat er weinig variatie is, weinig pogingen, en weinig creativiteit, en vast meer dingen waar ik even niet op kom.
+
+![betere schets](readme-images/basisschets2.jpeg)
+
+**Beschrijving:** Dit ziet er beter uit. Er zijn veel pogingen gedaan, ze varieren van elkaar, ze zijn duidelijk, er is aandacht aan besteed door het te verduidelijken met een pen, en dat was 't eigenlijk.
+
+![ss](readme-images/basisschets3.jpeg)
+![ss](readme-images/basisschets4.jpeg)
+![ss](readme-images/basisschets5.jpeg)
+![ss](readme-images/basisschets6.jpeg)
+
+**Beschrijving:** Het voelde best fijn en grappig eigenlijk om deze schetsen te maken. Omdat ze natuurlijk heel simpel zijn, maar de vraag is dus of simpel ook makkelijk is. Persoonlijk vond ik dat ik het best goed deed, en daagde ik mijzelf ook tijdens het schetsen uit, door bijvoorbeeld de ene keer met links te schrijven, en de andere keer zonder te kijken. De telefoon app schets ging iets minder, omdat ik de grootte en maten van sommige elementen verkeer had ingeschat. Dit betekent dus eigenlijk niks anders dan dat ik de volgende keer een betere planning moet maken, ook met zulke simpele schetsen waar niks fout kan gaan. Maar tegelijkertijd denk ik ook dat dat part of the process is, en schetsen natuurlijk niet perfect moet zijn, maar alsnog...
 
 
 
