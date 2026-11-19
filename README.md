@@ -68,6 +68,23 @@ Op de 2e afbeelding zie je de uitgewerkte versie op Figma. Heb het simpel gehoud
 
 
 
+# 13-11-2026 / vrijdag (praktische css & css met fonts) [sprint 0]
+
+## **Een lelijke HTML pagina maken**
+
+![code1](readme-images/lelijkcss1.png)
+
+**Beschrijving:** Dit was de eerste versie van een lelijke html pagina maken. Ik heb de basis toegevoegd, namelijk de titels en de paragrafen/kopjes, samen met een lijstje van scheidsrechters.
+
+![code2](readme-images/lelijkcss2.png)
+
+**Beschrijving:** Hier heb ik extra dingen toegevoegd, zoals een achtergrond, langere lijst, een knop, en een afbeelding. Alleen lukte het me niet om de achtergrond over de gehele pagina te krijgen. Ik had wat verkeerd gedaan.
+
+![code3](readme-images/lelijkcss3.png)
+
+**Beschrijving:** Dit was het resultaat. Het zag er allemaal veel netter en smoother uit, de achtergrond was gefixt met behulp van de docent. Ik had de achtergrond color onder de verkeerde element gezet. De font was ook aangepast, maar het belangrijkste is dat hij niet meer lelijk was.
+
+
 # 18-11-2026 / woensdag (visual research) [sprint 1]
 
 ## **Opdracht 4: Eigen verbinding (presentatie vragenlijst)**
