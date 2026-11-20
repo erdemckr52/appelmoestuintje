@@ -84,6 +84,11 @@ Op de 2e afbeelding zie je de uitgewerkte versie op Figma. Heb het simpel gehoud
 
 **Beschrijving:** Dit was het resultaat. Het zag er allemaal veel netter en smoother uit, de achtergrond was gefixt met behulp van de docent. Ik had de achtergrond color onder de verkeerde element gezet. De font was ook aangepast, maar het belangrijkste is dat hij niet meer lelijk was.
 
+![code4](readme-images/lelijkcss4.png)
+![comments](readme-images/lelijkcsscomments.png)
+
+**Beschrijving:** Achteraf terugkijken, kwam ik erop dat ik helemáál niet klaar was, dus heb ik het even toch nog afgemaakt. Ik heb geprobeerd de code écht te begrijpen, en niet gewoon de opdracht gekopieerd en geplakt. Dat is best moeilijk, omdat je pas kennis maakt met allerlei termen, dus om eerlijk te zijn ben ik nu nog een beetje gespannen hierover, maar ik hoop dat het met de tijd mee zal verbeteren. Ik heb hierbij ook comments toegevoegd naast de code, omdat ik zeker weet dat ik deze codepen file ga gebruiken voor m'n toekomstige site, en terug ga kijken hoe ik dingen ook alweer had gedaan, en daarbij is het handig dat er nu al definities bij staan. Ik heb uiteindelijk ook een beetje de kleuren gebruikt die ik later in m'n site zou willen gebruiken, zodat het alvast een beetje een voorproef is. Voor wie? Geen idee. Voor mezelf?...
+
 
 # 18-11-2026 / woensdag (visual research) [sprint 1]
 
