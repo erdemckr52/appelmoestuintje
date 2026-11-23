@@ -179,3 +179,19 @@ Als het begin is gemaakt kan ik mijn Garden verder uitbreiden door opties toe te
 **Is het idee leuk en verrassend? Heb je zin om 'dit ontwerp' te maken?**
 
 - Zeker, maar heb wel soms twijfels of ik daadwerkelijk mijn volle creativiteit kan gebruiken. Meestal is het zo met ontwerpen waar ik mijn eigen onderwerpen aan kan verbinden, dat ik dan heel veel ideen heb maar alsnog focus op enkele stukken ervan, waardoor ik uiteindelijk niet helemaal tevreden ben met het resultaat.
+
+
+
+
+# 20-11-2026 / vrijdag (eerste schermen schetsen) [sprint 1]
+
+## **Mobile first schetsen**
+
+![1](readme-images/mobileschetsen1.jpeg)
+![2](readme-images/mobileschetsen2.jpeg)
+
+**Beschrijving:** Dit zijn de (helaas 2) mobile schetsen die ik heb kunnen maken. De eerste heb ik gefocussed op een aantal elementen in de schetsen van de crazy 8, namelijk de 1e, 2e, 3e en de laatste. De main element is hierbij de border/randjes, waar ik nog geen definitieve keuze heb gemaakt over wat voor border ik ga gebruiken. Als je er zo naar kijkt passen ze allemaal wel bij zo een beginscherm dat Ottomaanse vibes moet geven. Zo een beginscherm is niet definitief, dus misschien gebruik ik dit niet eens in m'n site, maar 't zorgt in ieder geval voor brainstorm. 
+
+De tweede schets gaat over de 1e en 7e eigenlijk, waarbij je door schilderijen heen gaat en klikt op 1tje, waardoor je een uitleg over krijgt, bijvoorbeeld de oorsprong, motieven, designkeuzes, etc. Dit zou ik kunnen ondersteunen door juist interactie te kunnen toevoegen, door op een element te kunnen klikken en daar weer uitleg over te krijgen zoals de roos die je ziet. 
+
+Uieindelijk heb ik mijn schetsen beoordeeld of basis van of ze webby zijn. Vond dat wel lastig, omdat de meeste dingen niet gelijk te zien zijn in de schetsen zelf, dus zou je je gedachten eigenlijk moeten gebruiken, om bijvoorbeeld te beoordelen of er een light/darkmode aanwezig is, of dat de visuele hirarchie van pas komt. Toekomstig beantwoorden als het ware(?).
