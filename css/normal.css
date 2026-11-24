@@ -29,6 +29,8 @@ html {
 
 img {
   max-width: 100%;
+  display: block;
+  height: auto;
 }
 
 body {
@@ -40,22 +42,19 @@ body {
 **************************/
 
 header {
+
 }
 
-/**************************
-* MARK: Footer
-**************************/
 
 footer {
+
 }
 
-/**************************
-* MARK: Main
-**************************/
 
 main {
+  max-width: 30em;
+  margin: auto;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(15em, 1fr));
 }
 
-/**************************
-* MARK: Section ...
-**************************/
