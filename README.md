@@ -195,3 +195,28 @@ Als het begin is gemaakt kan ik mijn Garden verder uitbreiden door opties toe te
 De tweede schets gaat over de 1e en 7e eigenlijk, waarbij je door schilderijen heen gaat en klikt op 1tje, waardoor je een uitleg over krijgt, bijvoorbeeld de oorsprong, motieven, designkeuzes, etc. Dit zou ik kunnen ondersteunen door juist interactie te kunnen toevoegen, door op een element te kunnen klikken en daar weer uitleg over te krijgen zoals de roos die je ziet. 
 
 Uieindelijk heb ik mijn schetsen beoordeeld of basis van of ze webby zijn. Vond dat wel lastig, omdat de meeste dingen niet gelijk te zien zijn in de schetsen zelf, dus zou je je gedachten eigenlijk moeten gebruiken, om bijvoorbeeld te beoordelen of er een light/darkmode aanwezig is, of dat de visuele hirarchie van pas komt. Toekomstig beantwoorden als het ware(?).
+
+
+## **Feedback Justus & Charley**
+
+- Maak onderzoek over fonts die je wilt gebruiken. Ga je bijvoorbeeld arabische letters gebruiken, zo ja hoe? Hoe ga je dat in je site verwerken? 
+
+- Overweeg wat voor soort kunst je wilt gebruiken. Bijvoorbeeld, alleen Ottomaanse kunst dat gemaakt is binnen het rijk, of ook buitenlandse bronnen? 
+
+**Hierna wist ik al wat ik nodig had, meer site inspiraties en een styleguide, wat ik nog niet had gemaakt. Over de fonts, wil ik het gaan mixen. Het moet natuurlijk te lezen zijn en te begrijpen, dus ik ben van plan om bijvoorbeeld titels van afbeeldingen/kunstwerk in het arabisch turks samen met latijns turks weer te geven, en daaronder de beschrijving in het engels waarschijnlijk. Ik ben er achter gekomen namelijk dat er heel weinig tot geen websites beschikbaar zijn die lijkt op wat ik ongeveer wil maken. Zelfs niet een beetje. Dus als dit later gepubliceerd wordt wellicht dat andere mensen hiermee kunnen werken wereldwijd.**
+
+
+## **Styleguide**
+
+![styleguide](readme-images/styleguide.png)
+
+**Beschrijving:** Zoals ik zei heb ik gekozen voor latijns ottomaans, en arabisch ottomaans qua taal. Grotendeels natuurlijk latijns, anders kan niemand het lezen, en een klein stukje arabische letters, zodat het die ottoman vibe kan afgeven. De arabische letters ben ik van plan om alleen bij titels te gebruiken van kunstwerk waarop geklikt wordt, dat ook gewoon wordt ondersteund door ernaast de latijnse versie te geven.
+
+Qua fonts ben ik gegaan voor klassieke fonts dat zou kunnen passen bij een klassieke art gallery museum. Maar ik zou daar nog dingen kunnen toevoegen naarmate ik meer onderzoek doe naar inspiraties. Ook ben ik op zoek gegaan naar de perfect ottomaanse font. Het ottomaanse rijk gebruikt namelijk grotendeels een specifieke vormgeving bij haar letters. Ik heb dezelfde gevonden, en daarnaast een paar die erop lijken. Of ik dit daadwerkelijk ga kunnen gebruiken in VSCode en of het gaat werken, komen we later achter. 
+
+Voor de kleurenpalet heb ik adobe gebruikt. Ik heb gekozen voor afbeeldingen uit mijn digital garden presentatie die het meest eruitstoken met de kleuren (zie afbeeldingen). Ik heb een stuk of 7 afbeeldingen van kunst, paleizen, interieurs, etc. de kleuren vastgesteld, en uiteindelijk met elkaar vergeleken welke kleuren het meeste voorkwamen. 1 overduidelijk was bijvoorbeeld de bordeuax rode kleur. Dat wordt ook de mainkleur als thema voor mijn site. Uiteindelijk heb ik er 1 kleurenpalet van gemaakt, die ik het meeste wil aanhouden, maar hoogst waarschinlijk voeg ik nog andere kleuren toe of haal ik sommige weg. Ik twijfels trouwens eigenlijk ook hoe ik deze kleuren überhaupt ga gebruiken, want mijn concept is redelijk simpel, waarbij veel kleuren eigenlijk niet van pas komen naar mijn gevoel, maar dat zie ik wel.
+
+![vb](readme-images/kleurenpaletvoorbeeld.png)
+
+Tot slot heb ik website inspiraties er ook bij gezet, zodat ik niet steeds lang hoef te zoeken naar eigenlijk mijn uitgangspunten, maar ik gewoon snel naar die styleguide kan kijken, en snel kan brainstormen als dat nodig is. 
+
