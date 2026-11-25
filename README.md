@@ -194,7 +194,7 @@ Als het begin is gemaakt kan ik mijn Garden verder uitbreiden door opties toe te
 
 De tweede schets gaat over de 1e en 7e eigenlijk, waarbij je door schilderijen heen gaat en klikt op 1tje, waardoor je een uitleg over krijgt, bijvoorbeeld de oorsprong, motieven, designkeuzes, etc. Dit zou ik kunnen ondersteunen door juist interactie te kunnen toevoegen, door op een element te kunnen klikken en daar weer uitleg over te krijgen zoals de roos die je ziet. 
 
-Uieindelijk heb ik mijn schetsen beoordeeld of basis van of ze webby zijn. Vond dat wel lastig, omdat de meeste dingen niet gelijk te zien zijn in de schetsen zelf, dus zou je je gedachten eigenlijk moeten gebruiken, om bijvoorbeeld te beoordelen of er een light/darkmode aanwezig is, of dat de visuele hirarchie van pas komt. Toekomstig beantwoorden als het ware(?).
+Uiteindelijk heb ik mijn schetsen beoordeeld of basis van of ze webby zijn. Vond dat wel lastig, omdat de meeste dingen niet gelijk te zien zijn in de schetsen zelf, dus zou je je gedachten eigenlijk moeten gebruiken, om bijvoorbeeld te beoordelen of er een light/darkmode aanwezig is, of dat de visuele hirarchie van pas komt. Toekomstig beantwoorden als het ware(?).
 
 
 ## **Feedback Justus & Charley**
