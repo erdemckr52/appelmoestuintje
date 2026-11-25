@@ -220,3 +220,8 @@ Voor de kleurenpalet heb ik adobe gebruikt. Ik heb gekozen voor afbeeldingen uit
 
 Tot slot heb ik website inspiraties er ook bij gezet, zodat ik niet steeds lang hoef te zoeken naar eigenlijk mijn uitgangspunten, maar ik gewoon snel naar die styleguide kan kijken, en snel kan brainstormen als dat nodig is. 
 
+
+## **Schetsen beoordeling; webby of niet?**
+
+
+
