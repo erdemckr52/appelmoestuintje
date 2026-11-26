@@ -181,6 +181,21 @@ Als het begin is gemaakt kan ik mijn Garden verder uitbreiden door opties toe te
 - Zeker, maar heb wel soms twijfels of ik daadwerkelijk mijn volle creativiteit kan gebruiken. Meestal is het zo met ontwerpen waar ik mijn eigen onderwerpen aan kan verbinden, dat ik dan heel veel ideen heb maar alsnog focus op enkele stukken ervan, waardoor ik uiteindelijk niet helemaal tevreden ben met het resultaat.
 
 
+## **Check-out**
+
+**Leg uit waar het Visual Research in 3 stappen naartoe werkt.**
+
+- Visuele research zorgt ervoor dat je je visuele keuzes kan definieren en specificeren. Je begint met het bedenken van sfeerwoorden die passen bij je concept. Vervolgens maak je gebruik van een pagina/site waar veel verschillende afbeeldingen op staab, in de vorm van een gallery. Daarna kies je allerlei soorten afbeeldingen uit die bij je sfeerwoorden passen. Dit zorgt ervoor dat je ook verschillende visuele ideeen kan opdoen, omdat je te maken krijgt met afbeeldingen van different structuur, vorm, contrast, typografie, etc. Hierdoor ga je automatisch brainstormen kun je je concept uitbreiden. Je ziet bijvoorbeeld een typografie op een afbeelding die pastte bij je sfeerwoord "natuur", en uiteindelijk vond je het wel wat en heb je het ook gebruikt. 
+
+**Vertel in 2 zinnen waar jouw Garden over gaat, en met welke content je dat gaat doen (beeld, tekst, sound, animatie enz).**
+
+- Mijn garden heeft te maken met mijn identiteit, trots, en achtergrond. Kunst binnen het Ottomaanse Rijk. Het belangrijkste is dat ik de mensen die mijn site bezoeken, de vibes kan meegeven, die de Ottomanen in real life hebben gegeven, wereldwijd, honderderden jaren lang. Denk daarbij aan paleizen, kunsttegels, moskeeën, calligrafie, maar ook grotendeels met muziek. Daarom ben ik ook van plan om er een rustig deuntje onder te zetten, bijvoorbeeld een "ney", een fluit die je ziel raakt, en een belangrijke motief is binnen het Sufisme.
+
+**Vertel kort welk idee van de Crazy 8 je het liefst zou willen uitvoeren/ verder zou willen onderzoeken.**
+
+- De natuurlijke motieven, zoals de roos en de tulp, etc. De klassieke border/randje, dat ook in het westen werd gebruikt, bijvoorbeeld voor het interieur van paleizen. De Ottomaanse kunsttegels, die overal werden gebruikt, van moskeeën tot aan lichaamreinigingsruimtes. Ook de Ottomaanse/Turkse taal in het arabische alfabet. Ik denk dat dat een must is, omdat het namelijk iets heel groot is, dat een rijk switcht van alfabet. 
+
+
 
 
 # 20-11-2026 / vrijdag (eerste schermen schetsen) [sprint 1]
@@ -195,6 +210,8 @@ Als het begin is gemaakt kan ik mijn Garden verder uitbreiden door opties toe te
 De tweede schets gaat over de 1e en 7e eigenlijk, waarbij je door schilderijen heen gaat en klikt op 1tje, waardoor je een uitleg over krijgt, bijvoorbeeld de oorsprong, motieven, designkeuzes, etc. Dit zou ik kunnen ondersteunen door juist interactie te kunnen toevoegen, door op een element te kunnen klikken en daar weer uitleg over te krijgen zoals de roos die je ziet. 
 
 Uiteindelijk heb ik mijn schetsen beoordeeld of basis van of ze webby zijn. Vond dat wel lastig, omdat de meeste dingen niet gelijk te zien zijn in de schetsen zelf, dus zou je je gedachten eigenlijk moeten gebruiken, om bijvoorbeeld te beoordelen of er een light/darkmode aanwezig is, of dat de visuele hirarchie van pas komt. Toekomstig beantwoorden als het ware(?).
+
+**Toevoeging:** Eerst vond ik het een nutteloze opdracht, omdat het een beetje vage vragen waren die toch al duidelijk zijn en die je niet vooruit helpen. Tot Charley mij feedback gaf, en mij tips gaf hoe dit mij zou kunnen helpen. Dat bijvoorbeeld de bedoeling eigenlijk is dat je een beetje gaat brainstormen over je concept, en hoe je rekening gaat houden met bijvoorbeeld responsiveness. Uiteindelijk gaf ze mij ook snel een voorbeeld als inspiratie hoe een art gallery er ongeveer uit kan zien.
 
 
 ## **Feedback Justus & Charley**
@@ -221,7 +238,19 @@ Voor de kleurenpalet heb ik adobe gebruikt. Ik heb gekozen voor afbeeldingen uit
 Tot slot heb ik website inspiraties er ook bij gezet, zodat ik niet steeds lang hoef te zoeken naar eigenlijk mijn uitgangspunten, maar ik gewoon snel naar die styleguide kan kijken, en snel kan brainstormen als dat nodig is. 
 
 
-## **Schetsen beoordeling; webby of niet?**
+## **Eerste HTML opzet**
 
+![1](readme-images/1e-html-opzet.png)
+
+**Beschrijving:** Dit was mijn allereerste HTML opzet. Ik heb een h1 voor de titel, in de main heb ik alle afbeeldingen die ik ga toevoegen, en daaronder een h2, waar ik nog niet eens zeker over ben. Heel mager dus.
+
+
+
+
+## **Check-out**
+
+**De checkout van vandaag bestaat uit een vraag: Welke feedback heb je gehad?**
+
+- zie feedback justus & charley.
 
 
